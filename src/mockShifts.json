@@ -1,0 +1,12 @@
+[
+  { "id": "1", "workplaceId": "W1", "start": "2024-06-01", "end": "2024-06-01" },
+  { "id": "2", "workplaceId": "W2", "start": "2024-06-01", "end": "2024-06-01" },
+  { "id": "3", "workplaceId": "W1", "start": "2024-06-02", "end": "2024-06-02" },
+  { "id": "4", "workplaceId": "W3", "start": "2024-06-02", "end": "2024-06-02" },
+  { "id": "5", "workplaceId": "W1", "start": "2024-06-03", "end": "2024-06-03" },
+  { "id": "6", "workplaceId": "W2", "start": "2024-06-04", "end": "2024-06-04" },
+  { "id": "7", "workplaceId": "W3", "start": "2024-06-05", "end": "2024-06-05" },
+  { "id": "8", "workplaceId": "W2", "start": "2024-06-06", "end": "2024-06-06" },
+  { "id": "9", "workplaceId": "W1", "start": "2024-06-07", "end": "2024-06-07" },
+  { "id": "10", "workplaceId": "W2", "start": "2024-06-08", "end": "2024-06-08" }
+]
