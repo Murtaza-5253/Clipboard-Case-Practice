@@ -4,7 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "workplaces": "ts-node src/mostActiveWorkplaces.ts",
+    "mockCase": "ts-node src/mockCase.ts"
   },
   "keywords": [],
   "author": "",
